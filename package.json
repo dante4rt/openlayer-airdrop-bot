@@ -1,0 +1,30 @@
+{
+  "name": "openlayer-airdrop-bot",
+  "version": "1.0.0",
+  "description": "A bot that automates daily check-ins for the OpenLayer airdrop, supporting multiple accounts and scheduled tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "airdrop",
+    "bot",
+    "automation",
+    "openlayer",
+    "crypto",
+    "check-in",
+    "airdrops",
+    "cron-job",
+    "nodejs"
+  ],
+  "author": "dante4rt",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "colors": "^1.4.0",
+    "cron": "^3.1.7",
+    "moment": "^2.30.1",
+    "readline-sync": "^1.4.10"
+  }
+}
