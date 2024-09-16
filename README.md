@@ -1,0 +1,2 @@
+# openlayer-airdrop-bot
+Yep.
